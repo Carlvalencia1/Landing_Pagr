@@ -1,0 +1,12 @@
+#principal {
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+    font-weight: lighter;
+    color: rgb(100, 70, 70);
+    background-color: #2eaccc;
+    font-family: 'Oceanwide';
+  src: url('/fonts/Oceanwide.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
